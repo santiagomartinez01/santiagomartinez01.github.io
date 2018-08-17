@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+    background-color: lightblue;
+    margin: 0;
+}
+
+p {
+    font-family: "Courier New", Times, serif;
+    padding: 1.5em 0em 0em 0em;
+    color: white;
+}
+
+.img {
+    width: 300px;
+    text-align: center;
+    display: block;
+    padding-top: 2em;
+    padding-left: 33em;
+}
+
+.header {
+    font-size: 3em;
+    padding: 1em 0em 0em 0em;
+    color: White;
+}
+
+a {
+  font-size: 1.25em;  
+}
+
+.about_me {
+     margin: 0em;
+}
